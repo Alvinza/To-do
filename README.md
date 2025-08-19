@@ -29,7 +29,7 @@ Task management application with category organization, date tracking, and persi
 
 1. Clone the repository:
    ```bash
-   git clone <your-repository-url>
+   https://github.com/Alvinza/To-do.git
    cd todo-app
    ```
 
