@@ -1,6 +1,6 @@
-# Smart To-Do List App
+# To-Do List App
 
-A feature-rich task management application with category organization, date tracking, and persistent local storage. Keep your tasks organized and never lose your progress.
+Task management application with category organization, date tracking, and persistent local storage. Keep your tasks organized and never lose your progress.
 
 ## 🌐 Live Demo
 **[View Live App](https://to-do-swart-beta.vercel.app/)**
