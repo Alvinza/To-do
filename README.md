@@ -4,6 +4,11 @@ Task management application with category organization, date tracking, and persi
 
 ## 🌐 Live Demo
 **[View Live App](https://to-do-swart-beta.vercel.app/)**
+## 📸 Screenshot
+
+![App Screenshot](./src/assets/screenshot.png)
+
+---
 
 ## ✅ Features
 
